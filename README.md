@@ -1,4 +1,4 @@
-![N1kkogg github stats](https://github-readme-stats.vercel.app/api?username=N1kkogg&count_private=true&show_icons=true&include_all_commits=true&theme=radical
+![N1kkogg's github stats](https://github-readme-stats.vercel.app/api?username=N1kkogg&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
 <!--
 **N1kkogg/N1kkogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
